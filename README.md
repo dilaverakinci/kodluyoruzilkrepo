@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# kodluyoruz İlk Repo
 Bu repo patika.dev kariyer patikası kapsamında açtığım ilk repo
 
 # Installation
