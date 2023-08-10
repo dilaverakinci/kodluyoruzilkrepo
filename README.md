@@ -25,3 +25,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 # License
 [MIT](https://opensource.org/license/mit/)
 
+# Proje Resmi 
+
+![Proje Resmi](/proje.png)
