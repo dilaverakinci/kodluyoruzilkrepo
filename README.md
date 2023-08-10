@@ -5,7 +5,7 @@ Bu repo patika.dev kariyer patikası kapsamında açtığım ilk repo
 
 Öncelikle projeyi klonlayın.
 
-'git clone https://github.com/dilaverakinci/kodluyoruzilkrepo.git '
+' git clone https://github.com/dilaverakinci/kodluyoruzilkrepo.git '
 
 # Usage
 
